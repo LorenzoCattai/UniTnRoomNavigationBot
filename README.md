@@ -12,3 +12,6 @@ The images are taken from https://github.com/guss-alberto/mappe-povo/.
 - [ ] Add staircases and elevators
 - [ ] Add other buildings (Povo2, Mesiano, etc.)
 - [ ] Integration with other bots
+- [ ] Add github hosted webapp alternative version, idealy get integrated into unitn.it
+- [ ] Generate empty placeholder config.ini if it does not exist (add comments to what the values are as well)
+- [ ] Containerize
